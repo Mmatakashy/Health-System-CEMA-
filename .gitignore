@@ -1,3 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*.env
+.env
+
+# Virtual environment
+venv/
+.env/
+*.egg-info/
+
+# VSCode
+.vscode/
+
+# OS
+.DS_Store
+
+# Database (if any local SQLite or cache files)
+*.sqlite3
+*.db
+
+# Logs
+*.log
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
 # dependencies
